@@ -1,5 +1,5 @@
 # Purchase gamepass prompt.
-**This should be put inside of a ScreenGUI. A image link will be below.**
+**Create a screen gui, add a button and a local script, put the script below in the local script.**
 
 ```
 -- Scripted by flvffywvffy
