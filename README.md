@@ -6,4 +6,4 @@ Hi! I am flvffy and I am a developer on roblox! Here I will post public scripts,
 
 ## Links
 
-[Prompt Purchase Tutorial]()
+[Prompt Purchase Tutorial](purchasegamepassprompt.md)
