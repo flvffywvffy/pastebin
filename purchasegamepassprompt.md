@@ -1,5 +1,5 @@
 # Purchase gamepass prompt.
-**This should be put inside of a ScreenGUI. A image link will be below.
+**This should be put inside of a ScreenGUI. A image link will be below.**
 
 ```
 -- Scripted by flvffywvffy
